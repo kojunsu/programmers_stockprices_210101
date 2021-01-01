@@ -1,7 +1,10 @@
-### 프로그래머스 코딩테스트 연습(주식 가격)
--안녕하세요~
+# 프로그래머스 코딩테스트 연습(주식 가격)
 
 
+
+### Solution 1
+![문제1](https://user-images.githubusercontent.com/62390565/103440436-d5bb0980-4c88-11eb-8250-143f15ce95a8.PNG)
+###
 ```python
 #solution_1.py
 
@@ -16,14 +19,14 @@ def solution(prices):
                 break
     return answer
 ```
-이중 반복문
+
 ![solution_1](https://user-images.githubusercontent.com/62390565/103440385-50375980-4c88-11eb-98a3-bbc3134e95b0.PNG)
 
 
 
 
 
-
+### Solution 2
 ```python
 #solution_2.py
 from collections import deque
@@ -50,7 +53,7 @@ def solution(prices):
 
 
 
-
+### Solution 3
 ```python
 #solution_3.py
 
