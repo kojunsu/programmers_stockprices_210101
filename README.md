@@ -26,7 +26,7 @@ def solution(prices):
                 break
     return answer
 ```
-
+### 효율성
 ![solution_1](https://user-images.githubusercontent.com/62390565/103440385-50375980-4c88-11eb-98a3-bbc3134e95b0.PNG)
 
 
@@ -55,8 +55,8 @@ def solution(prices):
     return answer
 
 ```
-
-
+### 효율성
+![solution_2](https://user-images.githubusercontent.com/62390565/103440553-02235580-4c8a-11eb-85f8-a682722b6f52.PNG)
 
 
 
@@ -81,6 +81,8 @@ def solution(p):
     return ans
 
 ```
+### 효율성
+![solution_3](https://user-images.githubusercontent.com/62390565/103440543-e28c2d00-4c89-11eb-9b94-6ede29dd9cbc.PNG)
 
 
 
