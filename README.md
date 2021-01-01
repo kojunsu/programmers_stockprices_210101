@@ -16,6 +16,8 @@ def solution(prices):
                 break
     return answer
 ```
+이중 반복문
+![solution_1](https://user-images.githubusercontent.com/62390565/103440385-50375980-4c88-11eb-98a3-bbc3134e95b0.PNG)
 
 
 
